@@ -80,7 +80,7 @@ of video terminals (rather than printer-based terminals like teletypes) visual e
 became possible. vi actually incorporates a powerful line editor called ex, and we can
 use line editing commands while using vi.
 
-第一版 vi 是在1976由 Bill Joy 写成的，当时他是加州大学伯克利分校的学生，
+第一版 vi 是在1976由 Bill Joy 写成的，当时他是加州大学伯克利分校adf的学生，
 后来他共同创建了 Sun 微系统公司。vi 这个名字
 来源于单词“visual”，因为它打算在带有可移动光标的视频终端上编辑文本。在发明可视化编辑器之前，
 有一次只能操作一行文本的行编辑器。为了指定一个修改，我们告诉行编辑器到一个特殊行并且
